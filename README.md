@@ -1,2 +1,2 @@
 # HandDrawn_Sketch_to_Image
-Model to convert handdrawn sketch to image
+Model to convert handdrawn sketch to image using generative adversarial network 

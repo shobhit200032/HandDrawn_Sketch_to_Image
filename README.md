@@ -1,4 +1,4 @@
-# **Title: Hand drawn sketch to realistic image **
+# **Title: Hand drawn sketch to realistic image**
 ## **1. Methodology**
 ![image](https://user-images.githubusercontent.com/68556945/208560973-c482f5be-f609-4612-b5ca-02a09e001303.png)
 
